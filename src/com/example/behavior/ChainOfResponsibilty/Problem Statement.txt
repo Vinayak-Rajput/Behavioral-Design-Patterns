@@ -1,0 +1,8 @@
+API Backend - Processing Incoming REquests
+
+Before request reaches the actual databse or business logic ,
+it is required to pass through checking like:
+->  Rate Limiting
+->  Authentication
+->  Data Validation
+
